@@ -1,16 +1,27 @@
-# React + Vite
+# 📱 Clone iPhone 17
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um projeto moderno desenvolvido com **React** e **Tailwind CSS**, inspirado no design elegante e minimalista do iPhone 17.  
+O foco deste projeto é demonstrar animações fluidas, responsividade e boas práticas de UI/UX com tecnologias front-end atuais.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Deploy
 
-## React Compiler
+O projeto está hospedado na **Vercel** e pode ser acessado no link abaixo:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 **[clone-iphone-17.vercel.app](https://vercel.com/wooolys-projects/clone-iphone-17)**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🖼️ Preview
+
+![Preview do projeto](public/preview.png)
+
+---
+
+## 🧰 Tecnologias Utilizadas
+
+- ⚛️ **React** – Biblioteca JavaScript para construção de interfaces dinâmicas.
+- 🎨 **Tailwind CSS** – Framework CSS utilitário para estilização rápida e responsiva.
+- 🌐 **Vercel** – Plataforma de deploy contínuo e hospedagem serverless.
+- 🧩 **Vite / Create React App** – Ferramenta de build rápida (dependendo do setup escolhido).
