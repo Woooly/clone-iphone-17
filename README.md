@@ -15,7 +15,7 @@ O projeto está hospedado na **Vercel** e pode ser acessado no link abaixo:
 
 ## 🖼️ Preview
 
-![Preview do projeto](public/preview.png)
+![Preview do projeto](preview.png)
 
 ---
 
